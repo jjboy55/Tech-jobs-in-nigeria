@@ -72,53 +72,52 @@
 * Guide: https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/
 * Roadmap: https://www.fullstackacademy.com/
 * Skills & Technologies: https://www.indeed.com/q-full-stack-developer-jobs.html
-(and so on for the rest of the roles)
 
 **Cloud Engineer**
 
-* Overview: https://aws.amazon.com/what-is-cloud-computing/: https://aws.amazon.com/what-is-cloud-computing/
-* Career Guide: https://www.pluralsight.com/resources/blog/cloud/how-to-begin-your-cloud-career: https://www.pluralsight.com/resources/blog/cloud/how-to-begin-your-cloud-career
-* Certifications: https://cloud.google.com/learn/certification: https://cloud.google.com/learn/certification
+* Overview: https://aws.amazon.com/what-is-cloud-computing/
+* Career Guide: https://www.pluralsight.com/resources/blog/cloud/how-to-begin-your-cloud-career
+* Certifications: https://cloud.google.com/learn/certification
 
 **Network Systems Administrator**
 
-* Job Description: https://www.indeed.com/m/jobs?q=Network+System+Administrator: https://www.indeed.com/m/jobs?q=Network+System+Administrator
-* Skills & Certifications: https://www.itcareerfinder.com/brain-food/blog/entry/it-certification-path-network-administrator.html: https://www.itcareerfinder.com/brain-food/blog/entry/it-certification-path-network-administrator.html
-* Resources: https://www.cisco.com/c/en/us/training-events/training-certifications/tech-roles/network-engineer.html: https://www.cisco.com/c/en/us/training-events/training-certifications/tech-roles/network-engineer.html
-
+* Job Description: https://www.indeed.com/m/jobs?q=Network+System+Administrator
+* Skills & Certifications: https://www.itcareerfinder.com/brain-food/blog/entry/it-certification-path-network-administrator.html
+* Resources: https://www.cisco.com/c/en/us/training-events/training-certifications/tech-roles/network-engineer.html
+  
 **Data Scientist**
 
-* Career Guide: https://datasciencedojo.com/blog/data-science-pathway/: https://datasciencedojo.com/blog/data-science-pathway/
-* Skills & Tools: https://www.kdnuggets.com/2020/10/greatlearning-become-data-scientist-guide.html: https://www.kdnuggets.com/2020/10/greatlearning-become-data-scientist-guide.html
-* Courses & Resources: https://www.kaggle.com/: https://www.kaggle.com/
+* Career Guide: https://datasciencedojo.com/blog/data-science-pathway/
+* Skills & Tools: https://www.kdnuggets.com/2020/10/greatlearning-become-data-scientist-guide.html
+* Courses & Resources: https://www.kaggle.com/
 
 **Product Manager**
 
-* Guide: https://productschool.com/resources/topics/roles-and-responsibilities/product-manager-role: https://productschool.com/resources/topics/roles-and-responsibilities/product-manager-role
-* Frameworks & Methodologies: https://theleanstartup.com/principles: https://theleanstartup.com/principles
-* Books & Resources: https://go.productplan.com/product-roadmap-book/: https://go.productplan.com/product-roadmap-book/
+* Guide: https://productschool.com/resources/topics/roles-and-responsibilities/product-manager-role
+* Frameworks & Methodologies: https://theleanstartup.com/principles
+* Books & Resources: https://go.productplan.com/product-roadmap-book/
 
 **Project Manager**
 
-* Guide: https://www.pmi.org/: https://www.pmi.org/
-* Frameworks & Methodologies: https://www.pmi.org/pmbok-guide-standards/foundational/pmbok: https://www.pmi.org/pmbok-guide-standards/foundational/pmbok
-* Tools & Resources: https://asana.com/uses/project-management: https://asana.com/uses/project-management
+* Guide: https://www.pmi.org/
+* Frameworks & Methodologies: https://www.pmi.org/pmbok-guide-standards/foundational/pmbok
+* Tools & Resources: https://asana.com/uses/project-management
 
 **UI Designer**
 
-* Guide: https://www.freecodecamp.org/news/tag/ui-design/: https://www.freecodecamp.org/news/tag/ui-design/
-* Tools & Resources: https://helpx.adobe.com/xd/help/adobe-xd-overview.html: https://helpx.adobe.com/xd/help/adobe-xd-overview.html
-* Portfolio Inspiration: https://dribbble.com/search/ui: https://dribbble.com/search/ui
+* Guide: https://www.freecodecamp.org/news/tag/ui-design/
+* Tools & Resources: https://helpx.adobe.com/xd/help/adobe-xd-overview.html
+* Portfolio Inspiration: https://dribbble.com/search/ui
 
 **UX Designer**
 
-* Guide: https://www.interaction-design.org/: https://www.interaction-design.org/
-* Methods & Tools: https://design-sprint.com/google-ventures-design-sprint/: https://design-sprint.com/google-ventures-design-sprint/
-* Books & Resources: https://www.nngroup.com/books/: https://www.nngroup.com/books/
+* Guide: https://www.interaction-design.org/
+* Methods & Tools: https://design-sprint.com/google-ventures-design-sprint/
+* Books & Resources: https://www.nngroup.com/books/
 
 **Business Analyst**
 
-* Guide: https://www.indeed.com/q-business-analyst-jobs.html: https://www.indeed.com/q-business-analyst-jobs.html
+* Guide:  https://www.indeed.com/q-business-analyst-jobs.html
 * Skills & Techniques: [https://www.pmi.org/learning/library/business-analyst-pivotal-role-future-7452](https://www
 
 ## Notes
