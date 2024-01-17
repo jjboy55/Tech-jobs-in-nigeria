@@ -14,31 +14,29 @@
 
 | Job Title | Expected Salary in Nigeria (NGN) - Senior Role | Expected Salary Abroad (USD) - Senior Role | Difficulty (1-5 stars) | Internship Opportunities in Nigeria | Where To Learn (with links) | Nigerian Learning Sites (reputable) |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Web Developer](https://www.bmc.com/blogs/web-developer-job-description/) | 3,960,000 |  $72,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
-| [Big Data Engineer](https://www.springboard.com/blog/what-is-a-big-data-engineer/) |  7,200,000 | $120,000 | 4 | Yes | Coursera, Udacity, IBM Data Science Community | Data Science Nigeria, Data Science Nigeria Bootcamp |
-| [Cybersecurity Engineer](https://www.cyberseek.org/heatmap.html) |  6,000,000 | $116,000 | 4 | Yes | Cybersafe Foundation, CyberXchange Conference | Cybersecurity Challenge Nigeria, Cybersecurity Experts Association of Nigeria |
-| [Software Engineer](https://www.bmc.com/blogs/software-engineer-job-description/) |  5,400,000 | $96,000 | 3 | Yes | Udacity, Coursera, Pluralsight | Ingressive For Good, Decagon Institute |
-| [Full-Stack Developer](https://www.bmc.com/blogs/full-stack-developer-job-description/) |  4,800,000 | $90,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
-| [Information Technology Manager](https://www.bmc.com/blogs/information-technology-manager-job-description/) |  15,000,000 | $120,000 | 4 | No | Udemy, Coursera, edX | N/A |
-| [Front-end Developer](https://www.bmc.com/blogs/front-end-developer-job-description/) |  3,000,000 | $60,000 | 2 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
-| [Back-end Developer](https://www.bmc.com/blogs/back-end-developer-job-description/) |  4,200,000 | $84,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
-| [Cloud Engineer](https://www.bmc.com/blogs/cloud-engineer-job-description/) |  6,000,000 | $110,000 | 4 | Yes | Coursera, Udacity, AWS Training and Certification | Ingressive For Good, Decagon Institute |
-| [Network Systems Administrator](https://www.bmc.com/blogs/network-administrator-job-description/) |  4,800,000 | $90,000 | 3 | Yes | Udemy, Coursera, Pluralsight | Ingressive For Good, Decagon Institute |
-| [Data Scientist](https://www.bmc.com/blogs/data-scientist-job-description/) |  7,200,000 | $120,000 | 4 | Yes | Coursera, Udacity, IBM Data Science Community | Data Science Nigeria, Data Science Nigeria Bootcamp |
-| [Product Manager](https://www.bmc.com/blogs/product-manager-job-description/) |  12,000,000 | $120,000 | 4 | No | Coursera, edX, Udemy | N/A |
-| [Project Manager](https://www.bmc.com/blogs/project-manager-job-description/) |  9,000,000 | $100,000 | 4 | No | Coursera, edX, Udemy | N/A |
-| [UI Designer](https://www.bmc.com/blogs/ui-designer-job-description/) |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
-| [UX Designer](https://www.bmc.com/blogs/ux-designer-job-description/) |  4,200,000 | $84,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
-| [Business Analyst](https://www.bmc.com/blogs/business-analyst-job-description/) |  4,800,000 | $96,000 | 3 | Yes | Udemy, Coursera, edX | Ingressive For Good, Decagon Institute |
-| [Data Analyst](https://www.bmc.com/blogs/data-analyst-job-description/) |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, edX | Data Science Nigeria, Data Science Nigeria Bootcamp |
-| [Cybersecurity Professional](https://www.bmc.com/blogs/cybersecurity-job-description/) |  6,000,000 | $116,000 | 4 | Yes | Cybersafe Foundation, CyberXchange Conference | Cybersecurity Challenge Nigeria, Cybersecurity Experts Association of Nigeria |
-| [Machine Learning Engineer](https://www.bmc.com/blogs/machine-learning-engineer-job-description/) |  7,200,000 | $120,000 | 4 | Yes | Coursera, Udacity, IBM Data Science Community | Data Science Nigeria, Data Science Nigeria Bootcamp |
-| [Digital Marketer](https://www.bmc.com/blogs/digital-marketing-job-description/) |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, Google Digital Garage | Ingressive For Good, Decagon Institute |
-| [Content Marketer](https://www.bmc.com/blogs/content-marketing-job-description/) |  3,000,000 | $60,000 | 2 | Yes | Udemy, Coursera, Google Digital Garage | Ingressive For Good, Decagon Institute |
-| [Java Developer](https://www.bmc.com/blogs/java-developer-job-description/) |  4,800,000 | $96,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
-| [Technical Writer](https://www.bmc.com/blogs/technical-writer-job-description/) |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, edX | Ingressive For Good, Decagon Institute |
-
-
+| Web Developer | 3,960,000 |  $72,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| Big Data Engineer |  7,200,000 | $120,000 | 4 | Yes | Coursera, Udacity, IBM Data Science Community | Data Science Nigeria, Data Science Nigeria Bootcamp |
+| Cybersecurity Engineer |  6,000,000 | $116,000 | 4 | Yes | Cybersafe Foundation, CyberXchange Conference | Cybersecurity Challenge Nigeria, Cybersecurity Experts Association of Nigeria |
+| Software Engineer |  5,400,000 | $96,000 | 3 | Yes | Udacity, Coursera, Pluralsight | Ingressive For Good, Decagon Institute |
+| Full-Stack Developer |  4,800,000 | $90,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| Information Technology Manager |  15,000,000 | $120,000 | 4 | No | Udemy, Coursera, edX | N/A |
+| Front-end Developer |  3,000,000 | $60,000 | 2 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| Back-end Developer |  4,200,000 | $84,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| Cloud Engineer |  6,000,000 | $110,000 | 4 | Yes | Coursera, Udacity, AWS Training and Certification | Ingressive For Good, Decagon Institute |
+| Network Systems Administrator |  4,800,000 | $90,000 | 3 | Yes | Udemy, Coursera, Pluralsight | Ingressive For Good, Decagon Institute |
+| Data Scientist |  7,200,000 | $120,000 | 4 | Yes | Coursera, Udacity, IBM Data Science Community | Data Science Nigeria, Data Science Nigeria Bootcamp |
+| Product Manager |  12,000,000 | $120,000 | 4 | No | Coursera, edX, Udemy | N/A |
+| Project Manager |  9,000,000 | $100,000 | 4 | No | Coursera, edX, Udemy | N/A |
+| UI Designer |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| UX Designer |  4,200,000 | $84,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| Business Analyst |  4,800,000 | $96,000 | 3 | Yes | Udemy, Coursera, edX | Ingressive For Good, Decagon Institute |
+| Data Analyst |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, edX | Data Science Nigeria, Data Science Nigeria Bootcamp |
+| Cybersecurity Professional |  6,000,000 | $116,000 | 4 | Yes | Cybersafe Foundation, CyberXchange Conference | Cybersecurity Challenge Nigeria, Cybersecurity Experts Association of Nigeria |
+| Machine Learning Engineer |  7,200,000 | $120,000 | 4 | Yes | Coursera, Udacity, IBM Data Science Community | Data Science Nigeria, Data Science Nigeria Bootcamp |
+| Digital Marketer |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, Google Digital Garage | Ingressive For Good, Decagon Institute |
+| Content Marketer |  3,000,000 | $60,000 | 2 | Yes | Udemy, Coursera, Google Digital Garage | Ingressive For Good, Decagon Institute |
+| Java Developer |  4,800,000 | $96,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| Technical Writer |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, edX | Ingressive For Good, Decagon Institute |
 
 ## Where to learn
 * [Andela Learning Community](https://andela.com/alc/)
@@ -47,6 +45,81 @@
 * [Data Science Nigeria Bootcamp](https://bootcamp.datasciencenigeria.org/)
 * [Ingressive For Good](https://ingressive.org/for-good/)
 * [Decagon Institute](https://decagon.institute/)
+
+
+## Tech Roles and Resources
+
+**Information Technology Manager**
+
+* Job Description: https://www.betterteam.com/information-technology-manager-job-description
+* Career Guide: https://money.usnews.com/careers/best-jobs/it-manager
+* Salary & Reviews: https://www.glassdoor.com/Salaries/information-technology-manager-salary-SRCH_KO0,30.htm
+
+**Front-end Developer**
+
+* Guide: https://www.freecodecamp.org/news/tag/web-development/
+* Roadmap: https://roadmap.sh/frontend
+* Resources: https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
+
+**Back-end Developer**
+
+* Guide: https://www.freecodecamp.org/learn/back-end-development-and-apis
+* Roadmap: https://roadmap.sh/backend
+* Languages & Frameworks: https://www.geeksforgeeks.org/top-7-programming-languages-for-backend-web-development/
+
+**Full-stack Developer**
+
+* Guide: https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/
+* Roadmap: https://www.fullstackacademy.com/
+* Skills & Technologies: https://www.indeed.com/q-full-stack-developer-jobs.html
+(and so on for the rest of the roles)
+
+**Cloud Engineer**
+
+* Overview: https://aws.amazon.com/what-is-cloud-computing/: https://aws.amazon.com/what-is-cloud-computing/
+* Career Guide: https://www.pluralsight.com/resources/blog/cloud/how-to-begin-your-cloud-career: https://www.pluralsight.com/resources/blog/cloud/how-to-begin-your-cloud-career
+* Certifications: https://cloud.google.com/learn/certification: https://cloud.google.com/learn/certification
+
+**Network Systems Administrator**
+
+* Job Description: https://www.indeed.com/m/jobs?q=Network+System+Administrator: https://www.indeed.com/m/jobs?q=Network+System+Administrator
+* Skills & Certifications: https://www.itcareerfinder.com/brain-food/blog/entry/it-certification-path-network-administrator.html: https://www.itcareerfinder.com/brain-food/blog/entry/it-certification-path-network-administrator.html
+* Resources: https://www.cisco.com/c/en/us/training-events/training-certifications/tech-roles/network-engineer.html: https://www.cisco.com/c/en/us/training-events/training-certifications/tech-roles/network-engineer.html
+
+**Data Scientist**
+
+* Career Guide: https://datasciencedojo.com/blog/data-science-pathway/: https://datasciencedojo.com/blog/data-science-pathway/
+* Skills & Tools: https://www.kdnuggets.com/2020/10/greatlearning-become-data-scientist-guide.html: https://www.kdnuggets.com/2020/10/greatlearning-become-data-scientist-guide.html
+* Courses & Resources: https://www.kaggle.com/: https://www.kaggle.com/
+
+**Product Manager**
+
+* Guide: https://productschool.com/resources/topics/roles-and-responsibilities/product-manager-role: https://productschool.com/resources/topics/roles-and-responsibilities/product-manager-role
+* Frameworks & Methodologies: https://theleanstartup.com/principles: https://theleanstartup.com/principles
+* Books & Resources: https://go.productplan.com/product-roadmap-book/: https://go.productplan.com/product-roadmap-book/
+
+**Project Manager**
+
+* Guide: https://www.pmi.org/: https://www.pmi.org/
+* Frameworks & Methodologies: https://www.pmi.org/pmbok-guide-standards/foundational/pmbok: https://www.pmi.org/pmbok-guide-standards/foundational/pmbok
+* Tools & Resources: https://asana.com/uses/project-management: https://asana.com/uses/project-management
+
+**UI Designer**
+
+* Guide: https://www.freecodecamp.org/news/tag/ui-design/: https://www.freecodecamp.org/news/tag/ui-design/
+* Tools & Resources: https://helpx.adobe.com/xd/help/adobe-xd-overview.html: https://helpx.adobe.com/xd/help/adobe-xd-overview.html
+* Portfolio Inspiration: https://dribbble.com/search/ui: https://dribbble.com/search/ui
+
+**UX Designer**
+
+* Guide: https://www.interaction-design.org/: https://www.interaction-design.org/
+* Methods & Tools: https://design-sprint.com/google-ventures-design-sprint/: https://design-sprint.com/google-ventures-design-sprint/
+* Books & Resources: https://www.nngroup.com/books/: https://www.nngroup.com/books/
+
+**Business Analyst**
+
+* Guide: https://www.indeed.com/q-business-analyst-jobs.html: https://www.indeed.com/q-business-analyst-jobs.html
+* Skills & Techniques: [https://www.pmi.org/learning/library/business-analyst-pivotal-role-future-7452](https://www
 
 ## Notes
 
