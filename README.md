@@ -13,17 +13,40 @@
 ## Table
 
 | Job Title | Expected Salary in Nigeria (NGN) - Senior Role | Expected Salary Abroad (USD) - Senior Role | Difficulty (1-5 stars) | Internship Opportunities in Nigeria | Where To Learn (with links) | Nigerian Learning Sites (reputable) |
-|---|---|---|---|---|---|---|
-| Data Scientist | 1,500,000 - 4,000,000 | 75,000 - 150,000 | 4.5 ⭐️ | Moderate to High | [Coursera](https://www.coursera.org/), [Udacity](https://www.udacity.com/), [EdX](https://www.edx.org/), [Kaggle](https://www.kaggle.com/), [DataCamp](https://www.datacamp.com/) | [Data Science Nigeria](https://www.datasciencenigeria.org/), [AI Saturdays Nigeria](https://www.aisaturdayslagos.com/), [Deep Learning Nigeria](https://deeplearningindaba.com/2022/indabax/nigeria/) |
-| Machine Learning Engineer | 1,700,000 - 5,000,000 | 80,000 - 175,000 | 5 ⭐️ | Moderate to High | [Coursera](https://www.coursera.org/), [Fast.ai](https://www.fast.ai/), [Udacity](https://www.udacity.com/), [Google AI Platform](https://cloud.google.com/ai-platform/docs/technical-overview), [IBM Cloud](https://www.ibm.com/cloud) | [Data Science Nigeria](https://www.datasciencenigeria.org/), [AI Saturdays Nigeria](https://www.aisaturdayslagos.com/), [Deep Learning Nigeria](https://deeplearningindaba.com/2022/indabax/nigeria/) |
-| DevOps Engineer | 1,200,000 - 3,500,000 | 65,000 - 125,000 | 3.5 ⭐️ | Moderate | [A Cloud Guru](https://www.pluralsight.com/cloud-guru), [Linux Academy](https://www.facebook.com/linuxacademycom/), [Udemy](https://www.udemy.com/), [Pluralsight](https://www.pluralsight.com/), [DevOps Institute](https://www.devopsinstitute.com/) | [DEV-C](https://www.bloodshed.net/), [CcHub](https://cchub.africa/), [Andela](https://andela.com/) |
-| Frontend Developer | 800,000 - 2,500,000 | 50,000 - 100,000 | 3 ⭐️ | High | [FreeCodeCamp](https://www.freecodecamp.org/), [The Odin Project](https://www.youtube.com/watch?v=pMPoxGebQ74), [Codecademy](https://www.codecademy.com/), [W3Schools](https://www.w3schools.com/), [Coursera](https://www.coursera.org/) | [HNG Internship](https://hng.tech/), [Passion Incubator](https://www.facebook.com/passionincubator/), [GidiCode](https://www.diagcode.com/diagcode/) |
-| Backend Developer | 1,000,000 - 3,000,000 | 60,000 - 110,000 | 3.5 ⭐️ | Moderate | [Full Stack Academy](https://www.fullstackacademy.com/), [Node.js Bootcamp](https://nodejs.org/en), [Udacity](https://www.udacity.com/), [Spring Boot Camp by Pluralsight](https://www.pluralsight.com/), [freeCodeCamp](https://www.freecodecamp.org/) | [Andela](https://andela.com/), [TalentQL](https://talentql.com/), [GidiCode](https://www.diagcode.com/diagcode/) |
-| Android Developer | 900,000 - 2,800,000 | 55,000 - 105,000 | 3.5 ⭐️ | Moderate | [Udacity](https://www.udacity.com/), [Google Android Developer Training](https://developer.android.com/), [Udemy](https://www.udemy.com/), [Coursera](https://www.coursera.org/), [Pluralsight](https://www.pluralsight.com/) | [HNG Internship](https://hng.tech/), [Andela](https://andela.com/), [GidiCode](https://www.diagcode.com/diagcode/) |
-| iOS Developer | 1,000,000 - 3,200,000 | 60,000 - 120,000 | 4 ⭐️ | Moderate | [Apple Developer Academy](https://www.apple.com/newsroom/2021/05/coders-designers-and-entrepreneurs-thrive-thanks-to-apple-developer-academy/), [Stanford iOS Programming](https://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522), [App Development with Swift by Apple](https://developer.apple.com/learn/), [Udemy](https://www.udemy.com/), [Coursera](https://www.coursera.org/) | |
-| Data Analyst | 800,000 - 2,200,000 | 50,000 - 90,000 | 3 ⭐️ | High | [Google Data Analytics Professional Certificate](https://grow.google/certificates/data-analytics/), [Coursera](https://www.coursera.org/), [Udacity](https://www.udacity.com/), [Power BI University](https://powerbi.microsoft.com/en-us/downloads/), [EdX](https://www.edx.org/) | |
-| Business Intelligence Analyst | 1,000,000 - 3,000,000 | 60,000 - 100,000 | 3 ⭐️ | Moderate | [Coursera](https://www.coursera.org/), [Udacity](https://www.udacity.com/), [EdX](https://www.edx.org/), [Springboard](https://www.springboard.com/), [Udemy](https://www.udemy.com/) | |
-| UI/UX Designer | ₦738,000 - ₦2,000,000 | 65,000 - 125,000 | 5 ⭐️ | Moderate | [A Cloud Guru](https://www.pluralsight.com/cloud-guru), [Linux Academy](https://www.facebook.com/linuxacademycom/), [Udemy](https://www.udemy.com/), [Pluralsight](https://www.pluralsight.com/), [DevOps Institute](https://www.devopsinstitute.com/) | [DEV-C](https://www.bloodshed.net/), [CcHub](https://cchub.africa/), [Andela](https://andela.com/) |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Web Developer](https://www.bmc.com/blogs/web-developer-job-description/) | 3,960,000 |  $72,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| [Big Data Engineer](https://www.springboard.com/blog/what-is-a-big-data-engineer/) |  7,200,000 | $120,000 | 4 | Yes | Coursera, Udacity, IBM Data Science Community | Data Science Nigeria, Data Science Nigeria Bootcamp |
+| [Cybersecurity Engineer](https://www.cyberseek.org/heatmap.html) |  6,000,000 | $116,000 | 4 | Yes | Cybersafe Foundation, CyberXchange Conference | Cybersecurity Challenge Nigeria, Cybersecurity Experts Association of Nigeria |
+| [Software Engineer](https://www.bmc.com/blogs/software-engineer-job-description/) |  5,400,000 | $96,000 | 3 | Yes | Udacity, Coursera, Pluralsight | Ingressive For Good, Decagon Institute |
+| [Full-Stack Developer](https://www.bmc.com/blogs/full-stack-developer-job-description/) |  4,800,000 | $90,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| [Information Technology Manager](https://www.bmc.com/blogs/information-technology-manager-job-description/) |  15,000,000 | $120,000 | 4 | No | Udemy, Coursera, edX | N/A |
+| [Front-end Developer](https://www.bmc.com/blogs/front-end-developer-job-description/) |  3,000,000 | $60,000 | 2 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| [Back-end Developer](https://www.bmc.com/blogs/back-end-developer-job-description/) |  4,200,000 | $84,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| [Cloud Engineer](https://www.bmc.com/blogs/cloud-engineer-job-description/) |  6,000,000 | $110,000 | 4 | Yes | Coursera, Udacity, AWS Training and Certification | Ingressive For Good, Decagon Institute |
+| [Network Systems Administrator](https://www.bmc.com/blogs/network-administrator-job-description/) |  4,800,000 | $90,000 | 3 | Yes | Udemy, Coursera, Pluralsight | Ingressive For Good, Decagon Institute |
+| [Data Scientist](https://www.bmc.com/blogs/data-scientist-job-description/) |  7,200,000 | $120,000 | 4 | Yes | Coursera, Udacity, IBM Data Science Community | Data Science Nigeria, Data Science Nigeria Bootcamp |
+| [Product Manager](https://www.bmc.com/blogs/product-manager-job-description/) |  12,000,000 | $120,000 | 4 | No | Coursera, edX, Udemy | N/A |
+| [Project Manager](https://www.bmc.com/blogs/project-manager-job-description/) |  9,000,000 | $100,000 | 4 | No | Coursera, edX, Udemy | N/A |
+| [UI Designer](https://www.bmc.com/blogs/ui-designer-job-description/) |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| [UX Designer](https://www.bmc.com/blogs/ux-designer-job-description/) |  4,200,000 | $84,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| [Business Analyst](https://www.bmc.com/blogs/business-analyst-job-description/) |  4,800,000 | $96,000 | 3 | Yes | Udemy, Coursera, edX | Ingressive For Good, Decagon Institute |
+| [Data Analyst](https://www.bmc.com/blogs/data-analyst-job-description/) |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, edX | Data Science Nigeria, Data Science Nigeria Bootcamp |
+| [Cybersecurity Professional](https://www.bmc.com/blogs/cybersecurity-job-description/) |  6,000,000 | $116,000 | 4 | Yes | Cybersafe Foundation, CyberXchange Conference | Cybersecurity Challenge Nigeria, Cybersecurity Experts Association of Nigeria |
+| [Machine Learning Engineer](https://www.bmc.com/blogs/machine-learning-engineer-job-description/) |  7,200,000 | $120,000 | 4 | Yes | Coursera, Udacity, IBM Data Science Community | Data Science Nigeria, Data Science Nigeria Bootcamp |
+| [Digital Marketer](https://www.bmc.com/blogs/digital-marketing-job-description/) |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, Google Digital Garage | Ingressive For Good, Decagon Institute |
+| [Content Marketer](https://www.bmc.com/blogs/content-marketing-job-description/) |  3,000,000 | $60,000 | 2 | Yes | Udemy, Coursera, Google Digital Garage | Ingressive For Good, Decagon Institute |
+| [Java Developer](https://www.bmc.com/blogs/java-developer-job-description/) |  4,800,000 | $96,000 | 3 | Yes | Udemy, Coursera, Codecademy | Andela Learning Community, HNG Internship |
+| [Technical Writer](https://www.bmc.com/blogs/technical-writer-job-description/) |  3,600,000 | $72,000 | 2 | Yes | Udemy, Coursera, edX | Ingressive For Good, Decagon Institute |
+
+
+
+## Where to learn
+* [Andela Learning Community](https://andela.com/alc/)
+* [HNG Internship](https://hng.tech/)
+* [Data Science Nigeria](https://www.datasciencenigeria.org/)
+* [Data Science Nigeria Bootcamp](https://bootcamp.datasciencenigeria.org/)
+* [Ingressive For Good](https://ingressive.org/for-good/)
+* [Decagon Institute](https://decagon.institute/)
 
 ## Notes
 
